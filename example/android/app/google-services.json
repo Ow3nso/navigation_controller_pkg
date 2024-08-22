@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1048850599976",
+    "project_id": "lukhu-app",
+    "storage_bucket": "lukhu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048850599976:android:23a8f3514838940379251d",
+        "android_client_info": {
+          "package_name": "com.kalu.lukhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048850599976-een3s7f6920t49u7j26fkdptdfkl2sqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo56KzAgOqbjFw9jO2XpJxwh1XT423dxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048850599976-een3s7f6920t49u7j26fkdptdfkl2sqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048850599976-1n9jkni1n2pebgdtp4f0dbpla52v6vqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kapslab.lukhu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048850599976:android:c169519e60ae0d4079251d",
+        "android_client_info": {
+          "package_name": "com.lukhu.mobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048850599976-een3s7f6920t49u7j26fkdptdfkl2sqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo56KzAgOqbjFw9jO2XpJxwh1XT423dxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048850599976-een3s7f6920t49u7j26fkdptdfkl2sqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048850599976-1n9jkni1n2pebgdtp4f0dbpla52v6vqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kapslab.lukhu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
