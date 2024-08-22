@@ -39,13 +39,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   lukhu_packages_pkg:
     git: 
-      url: git@github.com:Lukhu-Product/lukhu_packages_pkg.git
+      url: https://github.com/Ow3nso/lukhu_packages_pkg.git
       ref: main
 
 dependency_overrides:
    navigation_controller_pkg:
      git:
-       url: git@github.com:Lukhu-Product/navigation_controller_pkg.git
+       url: https://github.com/Ow3nso/navigation_controller_pkg.git
        ref: main
   
 dev_dependencies:

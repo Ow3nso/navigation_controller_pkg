@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   lukhu_packages_pkg:
     git: 
-      url: git@github.com:Lukhu-Product/lukhu_packages_pkg.git
+      url: https://github.com/Ow3nso/lukhu_packages_pkg.git
       ref: main
 dev_dependencies:
   flutter_test:
